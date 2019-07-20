@@ -1,0 +1,67 @@
+.blue {
+    background-color: #babaff;
+    border-style: solid;
+    text-align:center;
+    height: 175px;
+    font-size: 50px;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+}
+
+.purple {
+    background-color: #daadda;
+    border-style: solid;
+    width: 60vw;
+    padding: 20px;
+    
+
+    
+
+}
+
+.pink {
+    background-color: pink;
+    border-style: solid;
+    text-align:center;
+    height: 35vw;
+    display: inline-table;
+}
+
+.parent {
+    display: flex;
+    flex-direction: row;
+}
+
+body {
+    font-family: sans-serif;
+    border-style: solid;
+    
+}
+
+ul {
+    list-style: none;
+   
+}
+
+.menu {
+    font-size: 60px;
+}
+
+.AD {
+    font-size: 85px;
+    padding: 15px;
+}
+
+.item {
+    font-size: 35px;
+}
+
+.pink h1 {
+    font-size: 50px;
+}
+
+.pink p {
+    font-size: 30px;
+
+}
